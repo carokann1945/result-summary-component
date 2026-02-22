@@ -1,8 +1,10 @@
+# Deployment Link
+
+https://result-summary-component-nine-ecru.vercel.app/
+
 # Frontend Mentor - Results summary component
 
 ![Design preview for the Results summary component coding challenge](public/images/preview.jpg)
-
-deploy link : https://result-summary-component-nine-ecru.vercel.app/
 
 ## Welcome! 👋
 
