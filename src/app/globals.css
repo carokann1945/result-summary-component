@@ -10,8 +10,8 @@
   --navy50: #ecf2ff;
   --blue800: #1125d6;
   --blue50: #f3f4fd;
-  --yello400: #ffb21e;
-  --yello50: #fffbf4;
+  --yellow400: #ffb21e;
+  --yellow50: #fffbf4;
   --red400: #ff5555;
   --red50: #fff6f6;
   --green500: #00bb8f;
@@ -26,13 +26,14 @@
   --color-navy50: var(--navy50);
   --color-blue800: var(--blue800);
   --color-blue50: var(--blue50);
-  --color-yello400: var(--yello400);
-  --color-yello50: var(--yello50);
+  --color-yellow400: var(--yellow400);
+  --color-yellow50: var(--yellow50);
   --color-red400: var(--red400);
   --color-red50: var(--red50);
   --color-green500: var(--green500);
   --color-green50: var(--green50);
   --background-image-red50: var(--red50);
+  --background-image-navy950: var(--navy950);
   --background-image-gradient1: var(--gradient1);
   --background-image-gradient2: var(--gradient2);
   /* Text Preset 1 */
