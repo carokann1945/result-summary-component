@@ -1,7 +1,15 @@
+import FinalScoreCard from '@/components/FinalScoreCard';
+import SingularScoreForm from '@/components/SingularScoreForm';
+import Button from '@/components/Button';
+
 export default function Home() {
   return (
-    <div>
-      <h1>carokann template</h1>
+    <div className="flex">
+      <FinalScoreCard />
+      <div>
+        <SingularScoreForm />
+        <Button />
+      </div>
     </div>
   );
 }
