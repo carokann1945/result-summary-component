@@ -8,8 +8,10 @@ import { Visual } from '@/components/icons/Visual';
 
 export default function Home() {
   return (
-    <div className="flex flex-col bg-white rounded-[32px] sm:flex-row">
-      <FinalScoreCard />
+    <div className="min-w-[375px] flex flex-col bg-white sm:flex-row">
+      <div className="w-full h-[356px]">
+        <FinalScoreCard />
+      </div>
       <div className="w-[368px] h-[512px] flex justify-center items-center">
         <div className="w-[288px] flex flex-col gap-[32px] justify-center items-center">
           <p className="w-full text-preset-4 text-navy950">Summary</p>
