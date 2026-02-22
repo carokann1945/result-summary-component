@@ -19,7 +19,11 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="ko" className={hankenGrotesk.variable}>
-      <body className="antialiased w-screen h-screen bg-[#F3F4FD] flex justify-center sm:items-center">{children}</body>
+      <body
+        className="antialiased w-dvw min-h-screen bg-white flex justify-center items-start
+      md:bg-blue50 md:items-center">
+        {children}
+      </body>
     </html>
   );
 }
